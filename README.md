@@ -2,7 +2,7 @@
 
 ## Short Description
 
-This 'Pomodoro Timer' program is a productivity tool designed for work and study. It utilizes the Pomodoro technique, which uses a timer to break down work into two intervals of 25 minutes each, separated by short breaks. After completing four work sessions, a longer break is taken. This technique has been proven to effectively improve focus and productivity.
+This **Pomodoro Timer** program is a productivity tool designed for work and study. It utilizes the Pomodoro technique, which uses a timer to break down work into two intervals of 25 minutes each, separated by short breaks. After completing four work sessions, a longer break is taken. This technique has been proven to effectively improve focus and productivity.
 
 For example, users might study for 25 minutes, take a 5-minute break, study for another 25 minutes, take another 5-minute break, and so on. After completing four study sessions, the user might take a 30-minute break to rest and recharge. Then they can resume studying with another Pomodoro cycle until they finish studying for the day.
 
